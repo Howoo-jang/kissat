@@ -1,8 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-https://www.youtube.com/watch?v=HdaVxGa--PY
 The Kissat SAT Solver
 =====================
-
+Reference HWJ : https://www.youtube.com/watch?v=HdaVxGa--PY
 Kissat is a "keep it simple and clean bare metal SAT solver" written in C.
 It is a port of CaDiCaL back to C with improved data structures, better
 scheduling of inprocessing and optimized algorithms and implementation.
